@@ -1,0 +1,4 @@
+User registers tree
+AI verifies image
+Backend stores data
+Dashboard shows progress
